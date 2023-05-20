@@ -2,15 +2,20 @@
 
 ## Preparation
 
-1. **Define the Purpose of Your Site**: Clearly outline what you want visitors to learn about you from the site.
+1. ~~**Define the Purpose of Your Site**: Clearly outline what you want visitors to learn about you from the site.~~
 
-2. **Plan Your Content**: What types of content you'll need such as resume, projects, blog posts, certifications, etc. Create an outline of what each page should contain.
-3. **Sketch the Layout**: Create a rough sketch of how you want your site to look like. This could be as simple as a pencil and paper drawing.
-4. **Gather Your Assets**: Collect or create any media you want to include, like photos, videos, icons, and graphics.
+2. ~~**Plan Your Content**: What types of content you'll need such as resume, projects, blog posts, certifications, etc. Create an outline of what each page should contain.~~
+
+3. ~~**Sketch the Layout**: Create a rough sketch of how you want your site to look like. This could be as simple as a pencil and paper drawing.~~
+
+4. **Gather Your Assets**: Collect or create any media you want to include, like photos, videos, icons, and graphics.  LATER
 
 ## Building Your Site
 
 5. **Choose Your Tech Stack**: Decide what languages and libraries you'll use. For a static site on GitHub Pages, you might use HTML, CSS, JavaScript, and perhaps a static site generator like Jekyll.
+
+11ty, JavaScript, HTML, CSS
+
 6. **Set Up Your Local Development Environment**: Make sure you have all the tools you need to start coding. This might include a code editor (like VS Code), Git, and any necessary compilers or build tools.
 7. **Create a GitHub Repository**: This will host your website's code.
 8. **Code the Basic Structure**: Write the HTML for your site.
