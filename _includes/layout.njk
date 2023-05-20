@@ -11,10 +11,21 @@
     <header>
       {% include "partials/header.njk" %}
     </header>
+
+    <section class="hero">
+
+      <div class="hero-content">
+        <!-- Your hero image, overlay, and button here -->
+      </div>
+      <canvas id="bgCanvas"></canvas>
+    </section>
     <main>
-      <section class="columns"><!-- Your columns here --></section>
+      <section class="columns">
+        <!-- Your columns here -->
+      </section>
     </main>
     {{ content | safe }}
     {% include "partials/footer.njk" %}
+    <script src="/assets/js/background.js" defer></script>
   </body>
 </html>

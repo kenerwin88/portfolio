@@ -1,11 +1,8 @@
 ---
 layout: layout.njk
-title: Page Title
+title: Ken Erwin
 ---
 
-<section class="hero">
-    <div class="hero-content"><!-- Your hero image, overlay, and button here --></div>
-</section>
 # Page Title
 
 This is a placeholder for the page content.
