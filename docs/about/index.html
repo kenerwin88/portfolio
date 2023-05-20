@@ -5,6 +5,7 @@
     <title>About Ken Erwin</title>
     <link rel="stylesheet" href="/assets/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <script src="/assets/js/transitions.js" defer></script>
   </head>
   <body>
     <div class="header-overlay"></div>
@@ -35,9 +36,17 @@
 
     <section class="hero">
 
+      <div class="thought-bubble">
+
+        <input type="text" class="question-input"><br/>
+        <div class="response">Responsse text</div>
+          Nice to meet you, I'm Ken (technically, an A.I. bot trained to converse as myself).  What would you like to know about me?  Feel free to ask me anything about my career.  I'll try to answer other things too, but less accurately as I'm not trained on other things... Or am I?
+      </div>
+
       <div class="hero-content">
         <!-- Your hero image, overlay, and button here -->
       </div>
+
       <canvas id="bgCanvas"></canvas>
     </section>
     <main>
@@ -85,5 +94,6 @@
 
     
     <script src="/assets/js/background.js" defer></script>
+    <script src="/assets/js/chat.js" defer></script>
   </body>
 </html>

@@ -129,3 +129,48 @@ nav ul li a:before {
   width: 50%;
   border-radius: 50%;
 }
+
+/*
+* Terminal Section
+*/
+.thought-bubble {
+  position: relative;
+  width: 40%;
+  height: 30%;
+  border-radius: 5%;
+  background-color: #f7f7f7;
+  color: #181e31;
+  padding: 40px;
+  opacity: 80%;
+  top: 30%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  transition: opacity 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column-reverse;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+  align-items: center;
+  justify-content: center;
+}
+.question-input {
+  width: 500px;
+  height: 50px;
+  background-color: #ffffff;
+  bottom: -25px;
+  left: -25px;
+  border-radius: 5%;
+  color: rgb(15, 13, 13);
+  border: 2px solid #fff;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.response {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  order: 1;
+  margin-top: 10px;
+}
+
+.show {
+  opacity: 1;
+}
