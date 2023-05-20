@@ -4,9 +4,16 @@
     <meta charset="utf-8">
     <title>{{ title }}</title>
     <link rel="stylesheet" href="/assets/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
   </head>
   <body>
-    {% include "partials/header.njk" %}
+    <div class="header-overlay"></div>
+    <header>
+      {% include "partials/header.njk" %}
+    </header>
+    <main>
+      <section class="columns"><!-- Your columns here --></section>
+    </main>
     {{ content | safe }}
     {% include "partials/footer.njk" %}
   </body>

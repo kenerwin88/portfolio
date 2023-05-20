@@ -6,3 +6,34 @@ title: Page Title
 # Page Title
 
 This is a placeholder for the page content.
+
+<section class="content">
+    <h1>Discover Our Services</h1>
+    <hr class="separator">
+        <div class="columns">
+            <div class="column">
+                <div class="icon">Icon 1</div>
+                <h2>Column 1</h2>
+                <p>Text content for Column 1</p>
+                <button class="btn">More Information</button>
+            </div>
+            <div class="column">
+                <div class="icon">Icon 2</div>
+                <h2>Column 2</h2>
+                <p>Text content for Column 2</p>
+                <button class="btn">More Information</button>
+            </div>
+            <div class="column">
+                <div class="icon">Icon 3</div>
+                <h2>Column 3</h2>
+                <p>Text content for Column 3</p>
+                <button class="btn">More Information</button>
+            </div>
+            <div class="column">
+                <div class="icon">Icon 4</div>
+                <h2>Column 4</h2>
+                <p>Text content for Column 4</p>
+                <button class="btn">More Information</button>
+            </div>
+        </div>
+    </section>

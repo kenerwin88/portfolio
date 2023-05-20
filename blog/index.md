@@ -1,8 +1,8 @@
 ---
 layout: layout.njk
-title: Page Title
+title: Blog
 ---
 
-# Page Title
+# Blog
 
-This is a placeholder for the page content.
+This is where I'll post updates about my latest projects, thoughts on software development, and anything else that comes to mind. Check back soon for updates!

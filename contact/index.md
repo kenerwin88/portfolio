@@ -1,8 +1,12 @@
 ---
 layout: layout.njk
-title: Page Title
+title: Contact
 ---
 
-# Page Title
+# Contact
 
-This is a placeholder for the page content.
+I'm always open to new opportunities, collaborations, or just a chat. You can reach me at:
+
+- Email: myemail@example.com
+- LinkedIn: [My LinkedIn Profile](#)
+- GitHub: [My GitHub Profile](#)
